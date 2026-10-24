@@ -10,7 +10,8 @@ Aunque la guía original propone grupos de tres aprendices, este trabajo se real
 - `logica`: construcción de `script.js`.
 - `estilos`: construcción de `style.css`, validaciones y ajustes visuales.
 
-Cada rama tiene mínimo dos commits y luego se integró a `main` mediante merge.
+Cada rama se integró a main mediante pull request y merge. Los commits registrados corresponden a las cargas de archivos y a los merges de cada rama.
+
 
 ## Fase 1: Investigación
 
